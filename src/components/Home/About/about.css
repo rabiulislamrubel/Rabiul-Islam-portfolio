@@ -1,0 +1,37 @@
+.about {
+  min-height: 100vh;
+}
+.about-photo-section {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../Images/bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-left: 40px;
+}
+.about-me {
+  padding-top: 180px;
+}
+.about-me h1 {
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: capitalize;
+}
+.about-content {
+  min-height: 65vh;
+}
+.section-title {
+  padding: 30px 0 30px 40px;
+  background-color: #005000;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 5px;
+}
+.about-description {
+  padding: 0 40px;
+  margin-top: 80px;
+}
+.about-description p {
+  font-size: 1.5rem;
+}

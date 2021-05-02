@@ -1,0 +1,27 @@
+.project-photo img {
+  width: 400px;
+}
+.project-details {
+  display: flex;
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 10px;
+  flex-wrap: wrap;
+}
+.project-content {
+  margin-left: 30px;
+}
+.project-content a {
+  margin: 5px;
+}
+.inner-projects {
+  margin-bottom: 50px;
+}
+.animationIn {
+  transform: translateX(0);
+  transition: 1s;
+}
+.animationOut {
+  transform: translateX(100);
+  transition: 1s;
+}

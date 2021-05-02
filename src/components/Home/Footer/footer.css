@@ -1,0 +1,23 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+.inner-footer {
+  display: flex;
+}
+.social-media-icon {
+  height: 45px;
+  width: 45px;
+  display: block;
+  background-color: #005000;
+  margin: 5px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 45px;
+  font-size: 1.5rem;
+  color: #fff !important;
+  font-weight: 700;
+}

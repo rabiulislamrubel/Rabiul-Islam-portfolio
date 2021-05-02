@@ -1,0 +1,17 @@
+.home {
+  min-height: 100vh;
+  display: flex;
+  width: 100%;
+}
+.side-bar {
+  width: 25%;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: yellow;
+}
+.main-side {
+  width: 75%;
+  margin-left: 25%;
+}
